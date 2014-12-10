@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sw_integration/!svn/ver/44/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/service
+END
+TrackingFlushService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sw_integration/!svn/ver/44/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/service/TrackingFlushService.java
+END
+RttService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sw_integration/!svn/ver/6/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/service/RttService.java
+END
+TrackingFlushServiceTpImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sw_integration/!svn/ver/43/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/service/TrackingFlushServiceTpImpl.java
+END
+RttServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sw_integration/!svn/ver/43/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/service/RttServiceImpl.java
+END
+TrackingFlushServiceJiraImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sw_integration/!svn/ver/43/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/service/TrackingFlushServiceJiraImpl.java
+END

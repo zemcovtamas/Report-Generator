@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sw_integration/!svn/ver/45/trunk/Development/tp-rtt-api/src/main/resources
+END
+log4j2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sw_integration/!svn/ver/45/trunk/Development/tp-rtt-api/src/main/resources/log4j2.xml
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sw_integration/!svn/ver/43/trunk/Development/tp-rtt-api/src/main/resources/application.properties
+END

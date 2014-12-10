@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sw_integration/!svn/ver/43/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/util
+END
+HttpResponseStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sw_integration/!svn/ver/43/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/util/HttpResponseStatus.java
+END
+PropertyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sw_integration/!svn/ver/43/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/util/PropertyReader.java
+END

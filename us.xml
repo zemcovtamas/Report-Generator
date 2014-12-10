@@ -1,0 +1,924 @@
+<UserStories Next="http://dolphio.tpondemand.com/api/v1/UserStories/?acid=8578A2030F929CD5798A370894EEA34D&amp;take=25&amp;skip=25">
+  <UserStory Id="1946" Name="In Progress test">
+    <Description nil="true" />
+    <StartDate>2014-11-28T04:56:05</StartDate>
+    <EndDate nil="true" />
+    <CreateDate>2014-11-28T04:56:05</CreateDate>
+    <ModifyDate>2014-11-28T04:56:05</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>661.875</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="16">
+      <FirstName>Developer</FirstName>
+      <LastName>SW</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1184" Name="Kaposvári Munkaidő Nyilvántartó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="5" Name="Nice To Have" />
+    <EntityState Id="124" Name="In Progress" />
+    <Feature Id="1574" Name="Szervezeti szinten meghatározott munkanapok és szünnapok" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1945" Name="Planned test">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-28T04:55:46</CreateDate>
+    <ModifyDate>2014-11-28T04:55:46</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>661.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="16">
+      <FirstName>Developer</FirstName>
+      <LastName>SW</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1184" Name="Kaposvári Munkaidő Nyilvántartó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="5" Name="Nice To Have" />
+    <EntityState Id="123" Name="Planned" />
+    <Feature Id="1574" Name="Szervezeti szinten meghatározott munkanapok és szünnapok" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1939" Name="Általános jogosultságok">
+    <Description>&lt;div&gt;
+&lt;table border="0" cellpadding="0" cellspacing="0" style="width:730pt"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="height:15pt; width:187pt"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;span style="color:black"&gt;Admin jogosultság&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="height:15pt; width:543pt"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;span style="color:black"&gt;Az admin minden funkcióhoz és az összes adathoz hozzáfér.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="height:45pt; width:187pt"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;span style="color:black"&gt;Számlázói jogosultság&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="height:45pt; width:543pt"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;span style="color:black"&gt;Ez a jogosultság a számla&amp;#44; proforma számla és sztornó számla kiállítására jogosult. Még az felmerülhet&amp;#44; hogy ezt a 3-at is szét bontsuk&amp;#44; de erre egyelőre csak lélekben legyünk felkészülve&amp;#44; azaz ha lehet úgy tervezzük meg a rendszert&amp;#44; hogy ezt megléphessük&amp;#44; ha szükségessé válik.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="height:15pt; width:187pt"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;span style="color:black"&gt;Megtekintési jogosultság&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="height:15pt; width:543pt"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;span style="color:black"&gt;Ez arra ad lehetőséget&amp;#44; hogy a számlatörténethez férjen valaki hozzá.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="height:30pt; width:187pt"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;span style="color:black"&gt;Üzleti admin jogosultság&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="height:30pt; width:543pt"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;span style="color:black"&gt;Ez arra ad lehetőséget&amp;#44; hogy felhasználót&amp;#44; céget&amp;#44; sablont és számlatömböt szerkeszthessen&amp;#44; rendelhessen egymáshoz.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</Description>
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-24T10:39:44</CreateDate>
+    <ModifyDate>2014-11-24T10:40:11</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>660.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="5" Name="Nice To Have" />
+    <EntityState Id="122" Name="Open" />
+    <Feature Id="1788" Name="Cégek és felhasználók" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1904" Name="Munkaidő generálás admin felületen">
+    <Description nil="true" />
+    <StartDate>2014-11-24T09:35:39</StartDate>
+    <EndDate nil="true" />
+    <CreateDate>2014-11-19T04:03:32</CreateDate>
+    <ModifyDate>2014-11-28T03:00:48</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>644.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1184" Name="Kaposvári Munkaidő Nyilvántartó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team Id="470" Name="Birizdó Zsolt" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="125" Name="In Testing" />
+    <Feature Id="1586" Name="Formanyomtatványok generálása (doc)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1900" Name="API-n keresztül lehessen hívni a generátorokat">
+    <Description nil="true" />
+    <StartDate>2014-11-24T09:35:24</StartDate>
+    <EndDate>2014-11-28T03:01:04</EndDate>
+    <CreateDate>2014-11-19T04:00:36</CreateDate>
+    <ModifyDate>2014-11-28T03:01:04</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>642.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1184" Name="Kaposvári Munkaidő Nyilvántartó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team Id="475" Name="Kecső Dávid" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="126" Name="Done" />
+    <Feature Id="1583" Name="Integration" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1895" Name="Generált számlák mentése">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-19T00:30:36</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>640.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="5" Name="Nice To Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1863" Name="A pdf számla generálás adatbázisból képes szedni a számla adatokat">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-19T00:07:09</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>623.875</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1862" Name="A pdf számla generálás kiajánlása REST API-n">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-19T00:06:32</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>624.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1857" Name="Megadható egy logó, ami a számlán megjelenítésre kerül">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:59:17</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>620.875</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="3" Name="Good" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1856" Name="Pdf számla generálásakor megadható, hogy melyik tartalom melyik cellában jelenjen meg">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:58:51</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>620.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="4" Name="Average" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1855" Name="Pdf számlán állítható, hogy mely opcionális mezők ne jelenjenek meg">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:58:03</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>619.875</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="3" Name="Good" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1849" Name="Több példányban nyomtatható számla">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:54:01</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>616.875</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1848" Name="Másolat számla előállítása">
+    <Description>&lt;div&gt;Megjegyzésben érdemes még ilyenkor megadni&amp;#58; &amp;quot;A számla másolata az eredetivel mindenben megegyező adatot tartalmaz&amp;quot;&lt;/div&gt;
+</Description>
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:53:37</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>616.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1847" Name="Több oldalas pdf számla előállítása">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:52:38</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>615.875</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="2" Name="Great" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1844" Name="Pdf számlában állítható a számla típusa (proforma, minta, számla, sztornó)">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:51:04</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>614.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1843" Name="Minta (preview) számlakép generálás">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:50:11</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>613.875</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1842" Name="Megadhatóak az egyes cellák nevei (számla sablon)">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:49:34</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>613.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1841" Name="A pdf számlán az adatokat egyénileg meg lehet adni (csak a valuek)">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:48:52</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>612.875</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1840" Name="Egy statikus adatokkal feltöltött pdf számla generálása">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:47:58</CreateDate>
+    <ModifyDate>2014-11-19T04:08:08</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>612.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1786" Name="PDF generálás (template)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1839" Name="E-számlázó admin felület">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:39:41</CreateDate>
+    <ModifyDate>2014-11-28T08:10:28</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>611.875</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>35.9095</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1784" Name="Adminisztrátor felület" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1838" Name="Company admin felület">
+    <Description>&lt;div&gt;- Rövid név&lt;/div&gt;
+
+&lt;div&gt;- Hosszú név&lt;/div&gt;
+
+&lt;div&gt;- Kapcsolattartó&lt;/div&gt;
+
+&lt;div&gt;- Azonosító&lt;/div&gt;
+
+&lt;div&gt;- Foglalkozás&lt;/div&gt;
+
+&lt;div&gt;- Ország&lt;/div&gt;
+
+&lt;div&gt;- Megye&lt;/div&gt;
+
+&lt;div&gt;- Város&lt;/div&gt;
+
+&lt;div&gt;- Irányítószám&lt;/div&gt;
+
+&lt;div&gt;- Utca&lt;/div&gt;
+
+&lt;div&gt;- Telefon&lt;/div&gt;
+
+&lt;div&gt;- Fax&lt;/div&gt;
+
+&lt;div&gt;- Email&lt;/div&gt;
+
+&lt;div&gt;- Weboldal&lt;/div&gt;
+
+&lt;div&gt;- Bankszámlaszám&lt;/div&gt;
+
+&lt;div&gt;- IBAN&lt;/div&gt;
+
+&lt;div&gt;- Megjegyzés&lt;/div&gt;
+</Description>
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:39:29</CreateDate>
+    <ModifyDate>2014-11-20T07:12:44</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>611.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1784" Name="Adminisztrátor felület" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1837" Name="Invoice admin felület">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:39:27</CreateDate>
+    <ModifyDate>2014-11-28T08:10:30</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>610.875</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>2.4631</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1784" Name="Adminisztrátor felület" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1836" Name="Organization admin felület">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:38:42</CreateDate>
+    <ModifyDate>2014-11-19T04:09:46</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>610.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.0000</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1784" Name="Adminisztrátor felület" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1809" Name="Admin felület képernyő terveinek elkészítése">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:11:17</CreateDate>
+    <ModifyDate>2014-11-25T18:00:46</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>596.875</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>16.3453</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="2" Name="Great" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1783" Name="Látványtervek készítése (mockup)" />
+    <CustomFields />
+  </UserStory>
+  <UserStory Id="1808" Name="Felhasználói felület képernyő terveinek elkészítése">
+    <Description nil="true" />
+    <StartDate nil="true" />
+    <EndDate nil="true" />
+    <CreateDate>2014-11-18T23:11:09</CreateDate>
+    <ModifyDate>2014-11-20T18:00:58</ModifyDate>
+    <LastCommentDate nil="true" />
+    <Tags></Tags>
+    <NumericPriority>596.375</NumericPriority>
+    <Effort>0.0000</Effort>
+    <EffortCompleted>0.0000</EffortCompleted>
+    <EffortToDo>0.0000</EffortToDo>
+    <Progress>0.0000</Progress>
+    <TimeSpent>0.8406</TimeSpent>
+    <TimeRemain>0.0000</TimeRemain>
+    <PlannedStartDate nil="true" />
+    <PlannedEndDate nil="true" />
+    <InitialEstimate>0.0000</InitialEstimate>
+    <EntityType Id="4" Name="UserStory" />
+    <Owner Id="1">
+      <FirstName>Team</FirstName>
+      <LastName>Leader</LastName>
+    </Owner>
+    <LastCommentedUser nil="true" />
+    <Project Id="1780" Name="eSzámlázó" />
+    <Release nil="true" />
+    <Iteration nil="true" />
+    <TeamIteration nil="true" />
+    <Team nil="true" />
+    <Priority Id="1" Name="Must Have" />
+    <EntityState Id="156" Name="Ac Done" />
+    <Feature Id="1783" Name="Látványtervek készítése (mockup)" />
+    <CustomFields />
+  </UserStory>
+</UserStories>

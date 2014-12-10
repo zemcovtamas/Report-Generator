@@ -1,0 +1,29 @@
+#rtt host sw
+rttHost=http://rtt.dolphio.hu:7880/sw-backend
+
+#rtt host local dev
+#rttHost=http://localhost.:8084/rtt-backend
+
+#rtt report url project
+rttReportByProjectUrl=/reports/download/project/
+
+#rtt report url report
+rttReportByReportUrl=/reports/download/report/
+
+#targetProcess host
+tpHost=dolphio.tpondemand.com
+
+#jira host
+jiraHost=mail.dolphio.hu
+jiraPort=9663
+
+#flushSystem=jira
+flushSystem=tp
+
+rttUserName=sw_readonly
+rttPassword=sw_readonly_D0lph1o
+
+tpUserName=Developer
+tpPassword=dolphio
+
+clientTimeOut=20000

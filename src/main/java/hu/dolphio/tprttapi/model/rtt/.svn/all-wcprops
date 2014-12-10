@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sw_integration/!svn/ver/7/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/model/rtt
+END
+ReportTimeVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sw_integration/!svn/ver/7/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/model/rtt/ReportTimeVO.java
+END
+ReportUserVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sw_integration/!svn/ver/4/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/model/rtt/ReportUserVO.java
+END
+ReportCycleVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sw_integration/!svn/ver/4/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/model/rtt/ReportCycleVO.java
+END
+ReportMetadataVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sw_integration/!svn/ver/4/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/model/rtt/ReportMetadataVO.java
+END
+ReportProjectVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sw_integration/!svn/ver/4/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/model/rtt/ReportProjectVO.java
+END
+ReportElementTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sw_integration/!svn/ver/4/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/model/rtt/ReportElementTO.java
+END

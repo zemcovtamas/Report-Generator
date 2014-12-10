@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sw_integration/!svn/ver/6/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/exception
+END
+ClientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sw_integration/!svn/ver/6/trunk/Development/tp-rtt-api/src/main/java/hu/dolphio/tprttapi/exception/ClientException.java
+END
